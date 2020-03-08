@@ -1,42 +1,42 @@
-10 Most Negative Companies
+10 Most Positive Companies
 
-Name: Barr LLC
-Purpose: Synergized attitude-oriented productivity for synthesize killer synergies
-Sentiment Score: -0.6486
+Name: Bernard, Wolf and Nicholson
+Purpose: Cross-platform zero tolerance customer loyalty for innovate value-added e-markets
+Sentiment Score: 0.836
 
-Name: Medina-Dorsey
-Purpose: Seamless interactive concept for aggregate killer e-markets
-Sentiment Score: -0.6486
+Name: Mcfarland Group
+Purpose: Innovative client-server ability for e-enable visionary e-tailers
+Sentiment Score: 0.8225
 
-Name: Andrews Group
-Purpose: Total eco-centric interface for whiteboard killer mindshare
-Sentiment Score: -0.6486
+Name: Blair PLC
+Purpose: Business-focused optimal secured line for whiteboard proactive networks
+Sentiment Score: 0.7906
 
-Name: Olson-Rose
-Purpose: Triple-buffered composite initiative for cultivate killer interfaces
-Sentiment Score: -0.6486
+Name: Bradley-Wilcox
+Purpose: Streamlined systematic paradigm for innovate rich supply-chains
+Sentiment Score: 0.7783
 
-Name: Herring PLC
-Purpose: De-engineered local emulation for iterate killer vortals
-Sentiment Score: -0.6486
+Name: Roberts-Huff
+Purpose: Networked dedicated success for synthesize turn-key communities
+Sentiment Score: 0.7717
 
-Name: Willis and Sons
-Purpose: Team-oriented holistic neural-net for productize killer partnerships
-Sentiment Score: -0.6486
+Name: Day, Williams and Diaz
+Purpose: De-engineered zero tolerance secured line for morph robust models
+Sentiment Score: 0.743
 
-Name: Castillo Ltd
-Purpose: Versatile grid-enabled ability for grow killer web services
-Sentiment Score: -0.4588
+Name: Hall, Heath and Perez
+Purpose: Managed 3rdgeneration artificial intelligence for optimize seamless ROI
+Sentiment Score: 0.743
 
-Name: Garrett Inc
-Purpose: Multi-channeled modular Graphical User Interface for embrace killer convergence
-Sentiment Score: -0.4588
+Name: Taylor, Walters and Wall
+Purpose: Innovative 4thgeneration Graphic Interface for strategize sexy deliverables
+Sentiment Score: 0.743
 
-Name: Johnston Group
-Purpose: Public-key even-keeled complexity for embrace killer networks
-Sentiment Score: -0.4588
+Name: Diaz-Ross
+Purpose: Configurable explicit customer loyalty for brand dynamic models
+Sentiment Score: 0.7269
 
-Name: Wong, Williams and Moreno
-Purpose: Quality-focused tangible software for exploit world-class applications
-Sentiment Score: -0.1027
+Name: Hoffman-Ramirez
+Purpose: Phased discrete concept for optimize innovative content
+Sentiment Score: 0.7269
 

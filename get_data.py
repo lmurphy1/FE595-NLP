@@ -172,9 +172,9 @@ if __name__ == "__main__":
     neg.close()
 
     pos = open("positive.txt", "w")
-    pos.write("10 Most Negative Companies" + "\n\n")
+    pos.write("10 Most Positive Companies" + "\n\n")
     text = ""
-    for c in negative_companies:
+    for c in reversed(positive_companies):
         text = (
             text
             + "Name: "
